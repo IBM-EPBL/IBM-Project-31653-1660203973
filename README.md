@@ -1,5 +1,6 @@
 # IBM-Project-31653-1660203973
 Retail Store Stock Inventory Analytics
+
 Team ID : PNT2022TMID19510
 
 Team Size : 4
